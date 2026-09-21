@@ -72,3 +72,7 @@ The application uses a Random Forest Classifier. Numerical features are imputed 
 - Store the trained model in a separate file.
 - Add a conservation-focused dataset and prediction task.
 - Deploy the application using Streamlit Community Cloud.
+
+  ---
+
+  Author: Bhagyashri Joshi
